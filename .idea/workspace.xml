@@ -28,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/remfee.service">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="56" lean-forward="false" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+              <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -128,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516245251640</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add service">
+      <created>1516247769470</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1516247769470</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -166,7 +173,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="123123" />
-    <option name="LAST_COMMIT_MESSAGE" value="123123" />
+    <MESSAGE value="add service" />
+    <option name="LAST_COMMIT_MESSAGE" value="add service" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -224,7 +232,7 @@
     <entry file="file://$PROJECT_DIR$/remfee.service">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="56" lean-forward="false" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
           <folding />
         </state>
       </provider>
