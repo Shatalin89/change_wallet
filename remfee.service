@@ -1,12 +1,13 @@
 [Unit]
-Description=Text
-After=syslog.target
+Description=rem fee
+After=multi-user.target
 
 [Service]
-Type=forking
-WorkingDirectory=/home/user/change_wallet
-PIDFile=/tmp/rem.pid
-ExecStart=/home/user/change_wallet/remove_mining_fees.py
+Type=idle
+ExecStart=/usr/bin/python /home/user/change_wallet/remove_mining_fees.py
+Restart=always
+TimeoutStartSec=10
+RestartSec=10
 
 [Install]
 WantedBy=multi-user.target
