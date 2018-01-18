@@ -74,8 +74,8 @@ def main():
   q14.set_callback(callback)
   q8.set_callback(callback)
 
-  q14.create_queue(0)
-  q8.create_queue(0)
+  q14.create_queue(14)
+  q8.create_queue(8)
 
   try:
     q14.try_run() # Main loop
