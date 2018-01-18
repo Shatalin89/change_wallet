@@ -1,0 +1,12 @@
+[Unit]
+Description=Text
+After=syslog.target
+
+[Service]
+Type=forking
+WorkingDirectory=/home/user/change_wallet
+PIDFile=/tmp/rem.pid
+ExecStart=/home/user/change_wallet/remove_mining_fees.py
+
+[Install]
+WantedBy=multi-user.target
