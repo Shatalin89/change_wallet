@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python
 
 # based on:
 # https://stackoverflow.com/questions/27293924/change-tcp-payload-with-nfqueue-scapy?rq=1

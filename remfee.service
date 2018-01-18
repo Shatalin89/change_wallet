@@ -11,3 +11,14 @@ RestartSec=10
 
 [Install]
 WantedBy=multi-user.target
+
+
+ Loaded: loaded (/etc/systemd/user/remfee.service; linked; vendor preset: enabled)
+ Active: failed (Result: exit-code) since Thu 2018-01-18 04:54:35 UTC; 33s ago
+ Process: 9898 ExecStart=/home/user/change_wallet/remove_mining_fees.py (code=exited, status=203/EXEC)
+
+Jan 18 04:54:35 eth systemd[1]: Starting Text...
+Jan 18 04:54:35 eth systemd[1]: remfee.service: Control process exited, code=exited status=203
+Jan 18 04:54:35 eth systemd[1]: Failed to start Text.
+Jan 18 04:54:35 eth systemd[1]: remfee.service: Unit entered failed state.
+Jan 18 04:54:35 eth systemd[1]: remfee.service: Failed with result 'exit-code'.

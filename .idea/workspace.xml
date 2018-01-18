@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="503a43aa-5920-4af7-9176-df8a663bc284" name="Default" comment="add service">
+    <list default="true" id="503a43aa-5920-4af7-9176-df8a663bc284" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/remfee.service" afterPath="$PROJECT_DIR$/remfee.service" />
+      <change beforePath="$PROJECT_DIR$/remove_mining_fees.py" afterPath="$PROJECT_DIR$/remove_mining_fees.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,21 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="remove_mining_fees.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="remove_mining_fees.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/remove_mining_fees.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="51" column="38" lean-forward="true" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
+            <state relative-caret-position="0">
+              <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="remfee.service" pinned="false" current-in-tab="true">
+      <file leaf-file-name="remfee.service" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/remfee.service">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            <state relative-caret-position="102">
+              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -43,8 +44,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/remove_mining_fees.py" />
         <option value="$PROJECT_DIR$/remfee.service" />
+        <option value="$PROJECT_DIR$/remove_mining_fees.py" />
       </list>
     </option>
   </component>
@@ -142,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516247975330</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add service">
+      <created>1516250866107</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1516250866107</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -228,18 +236,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/remove_mining_fees.py">
+    <entry file="file://$PROJECT_DIR$/remfee.service">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="51" column="38" lean-forward="true" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
+        <state relative-caret-position="102">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="72" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/remfee.service">
+    <entry file="file://$PROJECT_DIR$/remove_mining_fees.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
           <folding />
         </state>
       </provider>
